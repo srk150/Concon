@@ -1,0 +1,147 @@
+[20-Feb-2022 22:52:51 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[20-Feb-2022 22:52:55 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[21-Feb-2022 05:49:04 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 90
+[21-Feb-2022 05:49:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 39
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 40
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 43
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 44
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 45
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 46
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 47
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 52
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 53
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 54
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 55
+[21-Feb-2022 22:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/credit_count.php on line 56
+[21-Feb-2022 22:13:58 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[21-Feb-2022 22:14:02 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[21-Feb-2022 22:14:11 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[21-Feb-2022 17:15:55 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 90
+[21-Feb-2022 17:16:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[21-Feb-2022 17:16:02 America/New_York] PHP Notice:  Undefined variable: refercode_name in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 494
+[21-Feb-2022 17:16:02 America/New_York] PHP Notice:  Undefined variable: refercode_email in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 540
+[21-Feb-2022 17:16:02 America/New_York] PHP Notice:  Undefined variable: plan_type in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 586
+[21-Feb-2022 17:16:02 America/New_York] PHP Notice:  Undefined variable: plan_nm in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 587
+[21-Feb-2022 22:16:24 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Feb-2022 08:07:47 Europe/London] PHP Notice:  Undefined index: id in /home/uzpuldpf/public_html/concon/portal/controller/purchase.php on line 8
+[23-Feb-2022 11:40:33 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Feb-2022 11:41:12 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Feb-2022 11:49:10 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Feb-2022 11:50:44 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 05:29:37 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 90
+[28-Feb-2022 11:40:57 Europe/London] PHP Notice:  Undefined index: role in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 68
+[28-Feb-2022 06:40:57 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 90
+[28-Feb-2022 06:41:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[28-Feb-2022 06:41:20 America/New_York] PHP Notice:  Undefined variable: refercode_name in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 494
+[28-Feb-2022 06:41:20 America/New_York] PHP Notice:  Undefined variable: refercode_email in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 540
+[28-Feb-2022 06:41:20 America/New_York] PHP Notice:  Undefined variable: plan_type in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 586
+[28-Feb-2022 06:41:20 America/New_York] PHP Notice:  Undefined variable: plan_nm in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 587
+[28-Feb-2022 11:43:17 Europe/London] PHP Fatal error:  Uncaught Stripe\Error\Card: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing. in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php:124
+Stack trace:
+#0 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(98): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Array, Array, Array)
+#1 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(305): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Array, Array)
+#2 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Array)
+#3 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiOperations/Request.php(56): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#4 / in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php on line 124
+[28-Feb-2022 11:43:23 Europe/London] PHP Fatal error:  Uncaught Stripe\Error\Card: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing. in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php:124
+Stack trace:
+#0 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(98): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Array, Array, Array)
+#1 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(305): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Array, Array)
+#2 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Array)
+#3 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiOperations/Request.php(56): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#4 / in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php on line 124
+[28-Feb-2022 11:44:26 Europe/London] PHP Fatal error:  Uncaught Stripe\Error\Card: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing. in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php:124
+Stack trace:
+#0 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(98): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Array, Array, Array)
+#1 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(305): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Array, Array)
+#2 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Array)
+#3 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiOperations/Request.php(56): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#4 / in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php on line 124
+[28-Feb-2022 11:46:02 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 11:49:12 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 11:53:38 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 11:58:16 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 11:59:35 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[28-Feb-2022 12:07:07 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[12-Mar-2022 01:57:31 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:03:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:13:48 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:14:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:14:39 America/New_York] PHP Notice:  Undefined variable: refercode_name in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 512
+[12-Mar-2022 02:14:39 America/New_York] PHP Notice:  Undefined variable: refercode_email in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 558
+[12-Mar-2022 02:14:39 America/New_York] PHP Notice:  Undefined variable: plan_type in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 604
+[12-Mar-2022 02:14:39 America/New_York] PHP Notice:  Undefined variable: plan_nm in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 605
+[12-Mar-2022 02:18:38 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:19:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:23:18 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:24:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:24:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:24:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 44
+[12-Mar-2022 02:24:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 45
+[12-Mar-2022 02:24:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 46
+[12-Mar-2022 02:24:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 47
+[12-Mar-2022 02:26:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:32:08 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:34:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 184
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 185
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 186
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 192
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 193
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 194
+[12-Mar-2022 02:42:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 195
+[12-Mar-2022 02:43:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[22-Mar-2022 09:52:16 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[22-Mar-2022 13:07:20 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Mar-2022 05:35:40 Europe/London] PHP Notice:  Undefined index: token in /home/uzpuldpf/public_html/concon/portal/controller/check_authenticate.php on line 25
+[23-Mar-2022 05:35:53 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Mar-2022 05:36:53 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[23-Mar-2022 09:24:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[23-Mar-2022 09:26:02 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[24-Mar-2022 16:06:17 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[24-Mar-2022 16:08:21 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[24-Mar-2022 16:17:34 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[24-Mar-2022 16:21:56 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[24-Mar-2022 16:22:31 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[25-Mar-2022 09:51:39 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[25-Mar-2022 09:52:31 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[25-Mar-2022 06:15:07 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[25-Mar-2022 06:15:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[25-Mar-2022 10:19:09 Europe/London] PHP Fatal error:  Uncaught Stripe\Error\Card: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing. in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php:124
+Stack trace:
+#0 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(98): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Array, Array, Array)
+#1 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(305): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Array, Array)
+#2 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php(61): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Array)
+#3 /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiOperations/Request.php(56): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#4 / in /home/uzpuldpf/public_html/concon/portal/controller/stripe-php-master/lib/ApiRequestor.php on line 124
+[25-Mar-2022 11:26:50 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[25-Mar-2022 11:27:00 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[26-Mar-2022 01:21:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[26-Mar-2022 01:22:05 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[26-Mar-2022 01:22:08 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[26-Mar-2022 01:23:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[26-Mar-2022 06:32:13 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[26-Mar-2022 02:41:55 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[26-Mar-2022 02:42:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[26-Mar-2022 02:47:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[26-Mar-2022 02:48:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[30-Mar-2022 05:36:41 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[30-Mar-2022 05:38:58 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 184
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 185
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 186
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 192
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 193
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 194
+[01-Apr-2022 01:42:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 195
+[01-Apr-2022 01:50:01 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 02:59:19 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 02:59:50 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 08:26:53 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[01-Apr-2022 06:20:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/uzpuldpf/public_html/concon/portal/controller/reg_json.php on line 91
+[01-Apr-2022 06:21:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/uzpuldpf/public_html/concon/portal/controller/verify_acc.php on line 18
+[01-Apr-2022 11:23:38 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22
+[01-Apr-2022 11:23:52 Europe/London] PHP Notice:  Undefined index: web in /home/uzpuldpf/public_html/concon/portal/controller/login_json.php on line 22

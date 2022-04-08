@@ -1,0 +1,7 @@
+ErrorDocument 404 https://forestathome.com/concon/portal/404.php/
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ <YourRelativePathToPHPFile>/404.php [L]
